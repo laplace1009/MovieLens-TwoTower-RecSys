@@ -216,3 +216,6 @@ saved_models/*.pth
 mlruns/
 *.db
 *.sqlite
+
+# Pickle files
+*.pkl
